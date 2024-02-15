@@ -1,0 +1,14 @@
+{
+  "name": "bwx",
+  "version": "1.0.0",
+  "description": "K6 Tests for BWX.",
+  "main": "test.js",
+  "scripts": {
+    "test": "k6 run test.js"
+  },
+  "author": "Weiller Carvalho",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^16.4.4"
+  }
+}
